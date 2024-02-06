@@ -1,0 +1,46 @@
+{
+  "name": "vie-react",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "export": "next build && next export",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@clerk/clerk-react": "^4.27.2",
+    "@react-oauth/google": "^0.11.1",
+    "@splidejs/react-splide": "^0.7.12",
+    "axios": "^0.25.0",
+    "formik": "^2.4.5",
+    "gapi-script": "^1.2.0",
+    "gsap": "^3.12.2",
+    "js-cookie": "^3.0.5",
+    "mdbreact": "^5.2.0",
+    "next": "12.0.4",
+    "react": "^17.0.2",
+    "react-circular-progressbar": "^2.0.4",
+    "react-countup": "^6.1.0",
+    "react-dom": "^17.0.2",
+    "react-google-login": "^5.2.2",
+    "react-modal-video": "^1.2.8",
+    "react-router-dom": "^6.14.2",
+    "react-scroll": "^1.8.4",
+    "react-select": "^5.8.0",
+    "react-select-country-list": "^2.2.3",
+    "react-slick": "^0.28.1",
+    "react-tsparticles": "^1.37.4",
+    "react-visibility-sensor": "^5.1.1",
+    "sass": "^1.45.0",
+    "simple-parallax-js": "^5.6.2",
+    "slick-carousel": "^1.8.1",
+    "styled-components": "^6.0.5",
+    "swiper": "^7.4.1",
+    "typewriter-effect": "^2.18.2"
+  },
+  "devDependencies": {
+    "eslint": "7.32.0",
+    "eslint-config-next": "12.0.4"
+  }
+}

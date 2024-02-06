@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "icon": "pe-7s-magic-wand",
+        "title": "NEW APPROACHES",
+        "content":"Immerse in dynamic language learning with our interactive method."
+    },
+    {
+        "id": 2,
+        "icon": "pe-7s-medal",
+        "title": "Language Exam Preparation",
+        "content": "Prepare with confidence for your language exams."
+    },
+    {
+        "id": 3,
+        "icon": "pe-7s-global",
+        "title": "For All ",
+        "content": " Available and suitable for all age groups."
+    },
+    {
+        "id": 4,
+        "icon": "pe-7s-way",
+        "title": "Mastering the Culture",
+        "content": "Seamlessly adapt to German society and culture "
+    }
+]

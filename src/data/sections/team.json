@@ -1,0 +1,45 @@
+{
+  "teams": [
+    {
+      "id": 1,
+      "image": "/img/team/1.jpg",
+      "title": "Hören verbessert Verständnis",
+      "sub": "Hören"
+    },
+    {
+      "id": 2,
+      "image": "/img/team/2.jpg",
+      "title": "Lesen erweitert Wortschatz",
+      "sub": "Lesen"
+    },
+    {
+      "id": 3,
+      "image": "/img/team/3.jpg",
+      "title": "Technologie erleichtert Lernen",
+      "sub": "Technologie"
+    },
+    {
+      "id": 4,
+      "image": "/img/team/4.jpg",
+      "title": "Sprechen fördert Kommunikation",
+      "sub": "ÜBE DIE SPRACHE"
+    }
+  ],
+  "skills": [
+    {
+      "id": 1,
+      "text": "Lesen",
+      "value": "40%"
+    },
+    {
+      "id": 2,
+      "text": "Hören ",
+      "value": "30%"
+    },
+    {
+      "id":3,
+      "text": "Übe die Sprache ",
+      "value": "30%"
+    }
+  ]
+}
